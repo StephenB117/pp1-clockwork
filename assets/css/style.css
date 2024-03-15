@@ -1,0 +1,44 @@
+/*Font Styles*/
+
+
+/*General Styles to override browser*/
+* {
+    padding: 0;
+    margin: 0;
+} 
+
+/*Body Styles*/
+
+
+/* Header styles*/
+header {
+    background-color: #000000;
+    color: #F6D500;
+    
+}
+
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/*Main Styles*/
+
+
+/*Footer Styles*/ 
+footer {
+    background-color: #000000;
+    color: #F6D500;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+}
+ 
+
+/*Media Query for medium devices 768px and above*/
+
+
+/*Media Query for large devices 992px and above*/
