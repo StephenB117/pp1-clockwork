@@ -108,6 +108,12 @@ footer a {
 
 }
 
+/*Media Query for small devices 290px and below*/
+@media screen and (max-width:290px) {
+    main {
+        margin-top: 92px;
+    }
+}
 /*Media Query for medium devices 768px and above*/
 
 
