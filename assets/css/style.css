@@ -76,7 +76,9 @@ nav {
 }
 
 /*Main Styles*/
-
+main {
+    margin-top: 58px;
+}
 
 /*Footer Styles*/ 
 footer {
@@ -84,6 +86,21 @@ footer {
     color: #F6D500;
     margin-top: auto;
     text-decoration: none;
+    display: flex;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#socials {
+    list-style: none;
+    justify-content: space-evenly;
+    display: flex;
+    align-self: center;
+    flex: 1 0 auto;
+
 }
 
 /*Media Query for medium devices 768px and above*/
