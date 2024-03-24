@@ -99,6 +99,14 @@ form input {
     margin: 15px 0;
 }
 
+input#company-solutions {
+    height: 10vh;
+}
+
+form h2 {
+    margin-bottom: 10px;
+}
+
 /*Footer Styles*/ 
 footer {
     background-color: #000000;
