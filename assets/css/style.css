@@ -137,6 +137,34 @@ footer a {
     }
 }
 /*Media Query for medium devices 768px and above*/
+@media screen and (min-width:768px) {
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem; 
+    }
 
+    #pages {
+        display: flex;
+    }
+
+    #pages li {
+        padding-left: 1rem; 
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+    a:hover {
+        background-color: #F6D500;
+        color: #000000;
+    }
+
+}
 
 /*Media Query for large devices 992px and above*/
+@media screen and (max-width:992px) {
+
+}
