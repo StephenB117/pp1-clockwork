@@ -65,7 +65,13 @@ This page requests the users name, Phone number, email, company name and what so
 ![Picture of how the main content looks on the Contact Us page on both mobile and larger devices](/assets/images/mcontact.jpg)
 
 ## Testing: 
-Ran all code through W3C HTML and CSS validators. 
+
+### Validator Testing: 
+HTML: Code was run through the official [W3 Validator](https://validator.w3.org/nu/). No errors were returned. 
+
+CSS: Code was run through the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/). No errors were returned. 
+
+
 Viewed how the site looked on various mobile tablet and screen sizes. 
 Tested form validation to ensure users needed to fill out all fields. 
 Tested form returns correct user input, 
