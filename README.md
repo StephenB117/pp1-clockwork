@@ -78,11 +78,28 @@ Tested form returns correct user input,
 Ran lighthouse report to ensure accessability hit high 90s for each page. 
 
 ## Deployment: 
-Site deployed to GitHub Pages. 
-To deploy the site I went to the repository. 
-Selected settings and went to pages. 
-I then set the branch to main and saved. 
-I then went to actions and clicked on pages build and deployment and got the link to the site from there. 
+This site has been deployed to GitHub Pages.
+The steps to deploy the site are as follows: 
+ - In the GitHub repository go to settings. 
+ - Click on the pages tab under "Code and automation"
+ - Under "Build and deployment" for the source select deploy from branch
+ - Under "Branch" select main and /(root) and click save
+ - The page should refresh and the link to the website should be at the top of the page. 
+ - If like me this did not happen you can find the link to the website by doing the following. 
+    - In the repository at the top of the page select actions
+    - Click on the most recent "pages and deployment"
+    - This will give you the status of the deployment as well as the link to the deployed site
+
+
+If you wish to clone this repository you can do so by doing the following: 
+- Go to the code page in the GitHub repository
+- click on the down arrow on the code button next to "add file" 
+- Copy the url given under HTTPS to clone using a web URL
+- On your desktop open the command line. 
+- In the command line type "git clone" and then paste the copied URL 
+- If Git is installed on your computer it will initiate a download of the files from the repository
+
+The link to the deployed site is https://stephenb117.github.io/pp1-clockwork/
 
 ## Credits: 
 ### Content
