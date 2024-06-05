@@ -111,7 +111,27 @@ The link to the deployed site is https://stephenb117.github.io/pp1-clockwork/
 
 ## Credits: 
 ### Content
-Code for the navigation menu was taken and edited from the Love Running project. 
+Code content: 
+- Navigation menu code was taken and edited from the Love Running project.
+
+Form submission: 
+- Submitting the form takes the users to Code Institutes form data dump to show the data was recieved and the form is working 
+
+Social Media Links:
+- Link for Facebook taken from [Facebook](https://www.facebook.com/)
+- Link for X taken from [X](https://x.com/)
+- Link for LinkedIn taken from [LinkedIn](https://www.linkedin.com/)
 
 ### Media 
-Images taken from [Pexels](https://www.pexels.com/) and [Adobe](https://stock.adobe.com/ie/)
+Images:
+- Stock images taken from [Pexels](https://www.pexels.com/)
+- Stock images taken from [Adobe](https://stock.adobe.com/ie/)
+
+Icons: 
+- The three social media icons as well as the copyright icon used in the footer were taken from [FontAwesome](https://fontawesome.com/)
+
+Fonts:
+- The fonts selected for this site were taken from [Google Fonts](https://fonts.google.com/)
+
+Wireframes:
+- Wireframes were created in [Balsamiq](https://balsamiq.com/)
