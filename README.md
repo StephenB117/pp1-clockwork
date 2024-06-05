@@ -1,7 +1,15 @@
 # Clockwork 
 
 Clockworks website is intended for management and HR professionals seeking time and attendance solutions as well as an all in one HR management platform. 
-The site breaks down some of the features the product offers hoping to sell the user on the software
+
+The site breaks down some of the features the product offers hoping to sell the user on the software.
+
+The site will open on the main page which explains a little about the company and what it offers. 
+
+From there the users can explore the solutions page to see what we offer and what they can benefit from. 
+
+Lastly if they wish to make any enquiries or organize a follow up call they can submit their details through the contact us page.
+
 
 ![Picture of the website on different devices](/assets/images/responsive-design.jpg)
 
