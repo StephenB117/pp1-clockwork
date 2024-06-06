@@ -79,11 +79,39 @@ HTML: Code was run through the official [W3 Validator](https://validator.w3.org/
 
 CSS: Code was run through the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/). No errors were returned. 
 
+Regression Testing: 
 
-Viewed how the site looked on various mobile tablet and screen sizes. 
-Tested form validation to ensure users needed to fill out all fields. 
-Tested form returns correct user input, 
-Ran lighthouse report to ensure accessability hit high 90s for each page. 
+|Action|Expected Outcome|Pass/Fail|
+|:---------|:----------:|----------:|
+|Opening the link to the website|Website opens on the index.html page|Pass|
+|Mousing over links|Each page link, main heading and social media icons inverts the color of text and background|Pass| 
+|Clicking on the Solutions link|Opens and loads solutions.html|Pass|
+|Clicking on the Contact Us link|Opens and loads contact.html|Pass|
+|Submitting form on contact us with no information entered|User should be promoted to enter their name|Pass|
+|Submitting form on contact us with only name entered| User should be prompted to enter their email|Pass| 
+|Submitting form on contact us with name + email entered| User should be prompted to enter their phone number|Pass| 
+|Submitting form on contact us with name + email + phone number entered| User should be prompted to enter their company name|Pass| 
+|Submitting form on contact us with name + email + phone number + company name entered| User should be prompted to enter which solutions they are interested in|Pass| 
+|Submitting form on contact us with all information entered| Users should be redirected to Code Institues formdump page and see the information they entered|Pass| 
+|Clicking on the Home link| Opens and loads index.html|Pass|
+|Clicking on the company name in the header|Opens and loads index.html|Pass|
+|Clicking on Facebook icon in footer|Opens and loads facebook.com|Pass|
+|Clicking on X icon in footer|Opens and loads x.com|Pass|
+|Clicking on LinkedIn icon in footer|Opens and loads linkedin.com|Pass|
+
+Lighthouse report: 
+
+Desktop index.html
+
+desktop solutions.html
+
+desktop contact.html
+
+Mobile index.html
+
+Mobile solutions.html
+
+Mobile contact.html
 
 ## Deployment: 
 This site has been deployed to GitHub Pages.
