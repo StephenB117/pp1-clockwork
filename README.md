@@ -109,7 +109,11 @@ This page requests the users name, Phone number, email, company name and what so
 ### Validator Testing: 
 HTML: Code was run through the official [W3 Validator](https://validator.w3.org/nu/). No errors were returned. 
 
+![Picture of the HTML validator](/assets/images/pp1-html-validator.png)
+
 CSS: Code was run through the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/). No errors were returned. 
+
+![Picture of the jigsaw CSS validator](/assets/images/pp1-css-validator.png)
 
 Regression Testing: 
 
@@ -135,15 +139,27 @@ Lighthouse report:
 
 Desktop index.html
 
-desktop solutions.html
+![Picture of the lighthouse report desktop index page](/assets/images/pp1-lighthouse-desktop-index.png)
 
-desktop contact.html
+Desktop solutions.html
+
+![Picture of the lighthouse report desktop index page](/assets/images/pp1-lighthouse-desktop-solutions.png)
+
+Desktop contact.html
+
+![Picture of the lighthouse report desktop index page](/assets/images/pp1-lighthouse-desktop-contact.png)
 
 Mobile index.html
 
+![Picture of the lighthouse report desktop index page](/assets/images/pp1-lighthouse-mobile-index.png)
+
 Mobile solutions.html
 
+![Picture of the lighthouse report desktop index page](/assets/images/pp1-lighthouse-mobile-solutions.png)
+
 Mobile contact.html
+
+![Picture of the lighthouse report desktop index page](/assets/images/pp1-lighthouse-mobile-contact.png)
 
 ## Deployment: 
 This site has been deployed to GitHub Pages.
