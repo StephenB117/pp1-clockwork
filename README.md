@@ -1,4 +1,5 @@
 # Clockwork 
+https://stephenb117.github.io/pp1-clockwork/
 
 Clockworks website is intended for management and HR professionals seeking time and attendance solutions as well as an all in one HR management platform. 
 
@@ -26,9 +27,40 @@ Naviagtion between the pages to be done using the links contained in the header 
 
 When hovering over any links the background changes color for visual clarity on what the user is mousing over when on desktop. 
 
-![Picture of the website wireframe](/assets/images/pp1-website-view.png)
-![Picture of the Tablet wireframe](/assets/images/pp1-tablet-view.png)
-![Picture of the Mobile wireframe](/assets/images/pp1-smartphone-view.png)
+Website index.html wireframe
+![Picture of the website index wireframe](/assets/images/pp1-desktop-index.png)
+
+Website solutions.html wireframe
+![Picture of the website solutions wireframe](/assets/images/pp1-desktop-solutions.png)
+
+Website contact.html wireframe
+![Picture of the website contact wireframe](/assets/images/pp1-desktop-contact.png)
+
+Tablet index.html wireframe
+
+![Picture of the tablet index wireframe](/assets/images/pp1-tablet-index.png)
+
+Tablet solutions.html wireframe
+
+![Picture of the tablet solutions wireframe](/assets/images/pp1-tablet-solutions.png)
+
+Tablet contact.html wireframe
+
+![Picture of the tablet contact wireframe](/assets/images/pp1-tablet-contact.png)
+
+Mobile index.html wireframe
+
+![Picture of the mobile index wireframe](/assets/images/pp1-mobile-index.png)
+
+Mobile solutions.html wireframe
+
+![Picture of the mobile solutions wireframe](/assets/images/pp1-mobile-solutions.png)
+
+Mobile contact.html wireframe
+
+![Picture of the mobile contact wireframe](/assets/images/pp1-mobile-contact.png)
+
+
 ## Features
 
 ### Features in all pages
@@ -95,9 +127,9 @@ Regression Testing:
 |Submitting form on contact us with all information entered| Users should be redirected to Code Institues formdump page and see the information they entered|Pass| 
 |Clicking on the Home link| Opens and loads index.html|Pass|
 |Clicking on the company name in the header|Opens and loads index.html|Pass|
-|Clicking on Facebook icon in footer|Opens and loads facebook.com|Pass|
-|Clicking on X icon in footer|Opens and loads x.com|Pass|
-|Clicking on LinkedIn icon in footer|Opens and loads linkedin.com|Pass|
+|Clicking on Facebook icon in footer|Opens and loads facebook.com in new tab|Pass|
+|Clicking on X icon in footer|Opens and loads x.com in new tab|Pass|
+|Clicking on LinkedIn icon in footer|Opens and loads linkedin.com in new tab|Pass|
 
 Lighthouse report: 
 
