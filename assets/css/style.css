@@ -173,6 +173,14 @@ footer a {
     .hide-image {
         display: block;
         width: 100%;
-        height: 30vh;
+    }
+}
+
+/*Media Query for medium devices 1025px and above*/
+@media screen and (min-width:1025px) {
+    .hide-image {
+    display: block;
+    width: 100%;
+    height: 30vh;
     }
 }
