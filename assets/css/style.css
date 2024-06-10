@@ -115,6 +115,10 @@ form h2 {
     margin-bottom: 10px;
 }
 
+.above-image {
+    margin-bottom: 1rem;
+}
+
 /*Footer Styles*/ 
 footer {
     background-color: #000000;
